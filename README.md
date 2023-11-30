@@ -41,5 +41,6 @@ python parse_schedule.py --schedule schedule.json --overrides overrides.json --f
     "user": "charlie",
     "start_at": "2023-11-20T19:00:00Z",
     "end_at": "2023-11-23T17:00:00Z"
-  }]
+  }
+]
 ```
